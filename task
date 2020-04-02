@@ -2,3 +2,6 @@ Done 1. Anaconda环境安装，创建PY37虚拟环境 - 熟悉Anaconda和python�
 Done 2. 在虚拟环境中安装pandas np sklearn matplotlib
 Done 3. 读取一个sample csv到dataframe，练习进行分组操作以及dataframe和数值操作，TBD
 Done 4. 练习github上创建一个reporsitory，然后将练习代码远程同步至github上，搜索廖雪峰的github
+
+
+Git SSH Key path: /c/Users/L0190/.ssh/id_rsa
